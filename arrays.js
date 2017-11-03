@@ -6,5 +6,5 @@ function addElementToBeginningOfArray(a,b){
 
 function destructivelyAddElementToBeginningOfArray(a,b){
   a[0] = b
-  
+
 }
